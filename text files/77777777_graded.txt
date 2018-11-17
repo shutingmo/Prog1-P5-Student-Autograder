@@ -1,0 +1,12 @@
+High School Student
+ Fiyero Tigelaar
+Student ID: 77777777
+School Name: Dear Old Shiz
+(1)schools
+(2)lessson
+(3)kicked
+(4)studying
+(5)brianless
+(6)mattters
+(7)matters
+
